@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">DevSync</string>
+    <string name="tagline_subtitle">Your laptop\'s errors, solved on your phone. Offline. Private.</string>
+    <string name="badge_debug_anywhere">DEBUG ANYWHERE / LEAK NOTHING</string>
+    <string name="nav_dashboard">Dashboard</string>
+    <string name="nav_phone_inputs">Inputs &amp; Scrub</string>
+    <string name="nav_fix_cards">Fix Cards</string>
+    <string name="nav_roadmap">MVP Roadmap</string>
+    <string name="action_replay_onboarding">Onboarding Flow</string>
+    <string name="action_approve_manually">APPROVE MANUALLY -&gt;</string>
+    <string name="action_save_fix_card">SAVE FIX CARD</string>
+    <string name="status_zero_bytes">0 B SENT TO CLOUD</string>
+    <string name="status_airplane_ready">AIRPLANE-MODE READY</string>
+    <string name="hero_image_desc">DevSync laptop to phone private debugging bridge illustration</string>
+</resources>

@@ -1,0 +1,6 @@
+{
+  "name": "DevSync",
+  "description": "Offline laptop-to-phone debugging companion with deterministic secret scrubbing, 4-bit local AI error explanations, Camera OCR, voice trigger, and reusable Fix Cards.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
